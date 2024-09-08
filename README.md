@@ -80,3 +80,16 @@ The **Account** screen provides users with essential account management options 
 
 4. **Delete Account**  
    - An option to delete the user account should be available, with appropriate warnings before action.
+
+
+<img width="390" alt="home" src="https://github.com/user-attachments/assets/c26a2cd3-6766-4bac-877f-643019d9ca07">
+<img width="390" alt="verification_code" src="https://github.com/user-attachments/assets/fc2d87e6-31b4-41f9-891e-77a0665e10b1">
+<img width="390" alt="phone_number" src="https://github.com/user-attachments/assets/daba3ac7-6adf-4936-9535-1e923c4ab67b">
+<img width="390" alt="clients" src="https://github.com/user-attachments/assets/7171a717-69b3-440b-820d-1bb79dc4277e">
+<img width="390" alt="new_lesson" src="https://github.com/user-attachments/assets/cd70717d-ed1f-42dd-ad09-f0cd5d829b51">
+<img width="390" alt="date_and_duration" src="https://github.com/user-attachments/assets/4fc5cd88-8a48-4c4a-b37b-69afff5bcee3">
+
+
+
+
+
